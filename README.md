@@ -16,13 +16,26 @@ The dataset is taken from Kaggle and contains about 10 years of daily weather ob
 <li>  Number of Dependent Column: 1</li>
 
   </ul>
+
+# Problem Statement: 
+Design a predictive model with the use of machine learning algorithms to forecast whether or not it will rain tomorrow in Australia.
+  
   
 # Exploratory Data Analysis
 
 In this EDA part I have to do the following steps. 
 
+# Feature Engineering 
 <ul>
-  <li></li>
-  
+  <li>Data Preprocessing</li>
+  <li>Data Cleaning </li>
+  <li>Replace the Missing Values & Replace the Null values  </li> 
+  <li>To Detect and Handle the Outliers </li>
+  <li>One Hot Encoding Method </li> 
 </ul>  
+
+
+
+
+
   
