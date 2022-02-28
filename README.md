@@ -17,3 +17,12 @@ The dataset is taken from Kaggle and contains about 10 years of daily weather ob
 
   </ul>
   
+# Exploratory Data Analysis
+
+In this EDA part I have to do the following steps. 
+
+<ul>
+  <li></li>
+  
+</ul>  
+  
