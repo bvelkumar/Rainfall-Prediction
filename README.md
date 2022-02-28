@@ -9,7 +9,8 @@ The dataset is taken from Kaggle and contains about 10 years of daily weather ob
 
 # Dataset Description:
 
-<ul> Number of columns: 23
+<ul> 
+  <li> Number of columns: 23 </li>
   <li> Number of rows: 145460 </li>
  <li> Number of Independent Columns: 22 </li>
 <li>  Number of Dependent Column: 1</li>
