@@ -109,7 +109,7 @@ In this EDA part I have to do the following steps.
 ![image](https://user-images.githubusercontent.com/95357575/156418500-bc6f1ab9-30d5-47e1-b965-63fd57137d43.png)
 
 
-<h3> Here, We applied six machine learning algorithms, we can conclude that Random Forest classifier performs the best with 85.34% accuracy </h3> 
+<h3> Here, We applied Six machine learning algorithms, We can conclude that Random Forest classifier performs the best with 85.34% accuracy </h3> 
 
 
 
