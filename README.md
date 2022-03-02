@@ -33,7 +33,25 @@ In this EDA part I have to do the following steps.
   <li>Replace the Missing Values & Replace the Null values  </li> 
   <li>To Detect and Handle the Outliers </li>
   <li>One Hot Encoding Method </li> 
-</ul>  
+ </ul>  
+ 
+ # Classification models  
+ 
+ # Feature Selection 
+ 
+ # Comparative Analysis of the Algorithms 
+ 
+ # Model Building 
+
+<ul>
+   <li>Model Training</li>
+   <li>Model Testing</li>
+   <li>Evaluating Model Performance using Accuracy, Confusion Matrix, Classification Report, RUC-AUC curve</li>
+  </ul>
+ 
+# Model Evaluation
+  
+ 
 
 
 
