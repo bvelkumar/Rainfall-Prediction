@@ -33,6 +33,11 @@ In this EDA part I have to do the following steps.
 <p>Missing Data We can use seaborn to create a simple heatmap</p>
   
 ![image](https://user-images.githubusercontent.com/95357575/156415986-1c7bc542-bd61-435b-8d25-8499854fbe47.png)
+  
+  <p>Bar Graph</p>   
+  
+  ![image](https://user-images.githubusercontent.com/95357575/156416386-36f85080-a700-4720-bd36-371d17b0b96e.png)
+
 
   <li>Data Cleaning </li>
   <li>Correlation</li>
