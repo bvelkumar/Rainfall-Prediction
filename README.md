@@ -41,6 +41,12 @@ In this EDA part I have to do the following steps.
 
   <li>Data Cleaning </li>
   <li>Correlation</li>
+  
+  <p>To check the Correlation using Heatmap</p>  
+  
+  ![image](https://user-images.githubusercontent.com/95357575/156416618-d02350a9-8fc4-4679-9be6-0089af377b1b.png)
+
+  
   <li>Finding categorical and Numerical features in Dataset</li>
   <li>Replace the Missing Values & Replace the Null values  </li> 
   <li>To Detect and Handle the Outliers </li>
