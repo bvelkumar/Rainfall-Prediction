@@ -56,8 +56,9 @@ In this EDA part I have to do the following steps.
   
   ![image](https://user-images.githubusercontent.com/95357575/156416884-141e150b-aab6-4c52-9894-a00f461ef8ad.png)
 
+  <p> To Remove the Outliers & verifying in the dataset Using Box plot</p>
   
-  
+  ![image](https://user-images.githubusercontent.com/95357575/156417046-dd083eec-cd03-4703-8ddd-a81e48768599.png)
   
   
   <li>One Hot Encoding Method </li> 
