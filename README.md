@@ -29,6 +29,7 @@ In this EDA part I have to do the following steps.
 <ul>
   <li>Data Preprocessing</li>
   
+  <p>Missing Data We can use seaborn to create a simple heatmap</p>
   ![image](https://user-images.githubusercontent.com/95357575/156415670-6842b286-7158-444e-b45d-af37bcfc2b81.png)
 
   <li>Data Cleaning </li>
