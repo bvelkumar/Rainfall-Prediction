@@ -66,10 +66,20 @@ In this EDA part I have to do the following steps.
  </ul>  
  
  # Classification models  
+ <p>To apply the Machine Learning Algorithm</p>
  
  # Feature Selection 
  
+ <p>Finding the Correlation</p>
+ 
+ ![image](https://user-images.githubusercontent.com/95357575/156417692-beaf88ed-1f62-4a66-b57a-847e6f8574d6.png)
+
+ 
  # Comparative Analysis of the Algorithms 
+ 
+ ![image](https://user-images.githubusercontent.com/95357575/156417921-0cac1a81-51b7-405d-ba8e-05d3bf620699.png)
+
+
  
  # Model Building 
 
@@ -78,11 +88,28 @@ In this EDA part I have to do the following steps.
    <li>Model Testing</li>
    <li>Evaluating Model Performance using Accuracy, Confusion Matrix, Classification Report, RUC-AUC curve</li>
   </ul>
- 
+  
+<p>Confusion Matrix (XG Boost) </p>  
+
+![image](https://user-images.githubusercontent.com/95357575/156418180-0fa1b3cc-0272-4563-91fb-55d3ebfd8c41.png)
+
+
+<p>Confusion Martix (Random Forest Algm) </p>  
+
+![image](https://user-images.githubusercontent.com/95357575/156418329-46e25293-2b81-484c-b7b9-3e68cd08cabe.png)
+
+<p>RUC-AUC curve</p> 
+
+![image](https://user-images.githubusercontent.com/95357575/156418417-16fe2ec2-1a33-480b-9e6a-b3aae67bd6c1.png)
+
+
 # Model Evaluation
   
  
+![image](https://user-images.githubusercontent.com/95357575/156418500-bc6f1ab9-30d5-47e1-b965-63fd57137d43.png)
 
+
+<h3> Here, We applied six machine learning algorithms, we can conclude that Random Forest classifier performs the best with 85.34% accuracy </h3> 
 
 
 
