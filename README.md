@@ -29,6 +29,7 @@ In this EDA part I have to do the following steps.
 <ul>
   <li>Data Preprocessing</li>
   <li>Data Cleaning </li>
+  <li>Finding categorical and Numerical features in Dataset</li>
   <li>Replace the Missing Values & Replace the Null values  </li> 
   <li>To Detect and Handle the Outliers </li>
   <li>One Hot Encoding Method </li> 
