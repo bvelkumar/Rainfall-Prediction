@@ -62,6 +62,7 @@ In this EDA part I have to do the following steps.
   
   
   <li>One Hot Encoding Method </li> 
+  <p> Encoding Categorical Features using replace function</p>
  </ul>  
  
  # Classification models  
