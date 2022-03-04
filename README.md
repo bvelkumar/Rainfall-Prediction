@@ -75,13 +75,7 @@ In this EDA part I have to do the following steps.
  ![image](https://user-images.githubusercontent.com/95357575/156417692-beaf88ed-1f62-4a66-b57a-847e6f8574d6.png)
 
  
- # Comparative Analysis of the Algorithms 
- 
- ![image](https://user-images.githubusercontent.com/95357575/156417921-0cac1a81-51b7-405d-ba8e-05d3bf620699.png)
-
-
- 
- # Model Building 
+# Model Building 
 
 <ul>
    <li>Model Training</li>
@@ -89,6 +83,21 @@ In this EDA part I have to do the following steps.
    <li>Evaluating Model Performance using Accuracy, Confusion Matrix, Classification Report, RUC-AUC curve</li>
   </ul>
   
+<p> Confusion Martix (Decision Tree Classifier) </p> 
+  
+![image](https://user-images.githubusercontent.com/95357575/156783296-7eab11e6-4029-44db-9a45-5b7f87e613f4.png)
+
+
+# Visualize the Performance of the Decision Tree Classifier Model  
+
+![image](https://user-images.githubusercontent.com/95357575/156783483-15fb5ffc-a384-4ba1-9ad3-8cc36d1021da.png)
+
+
+
+
+
+
+
 <p>Confusion Matrix (XG Boost) </p>  
 
 ![image](https://user-images.githubusercontent.com/95357575/156418180-0fa1b3cc-0272-4563-91fb-55d3ebfd8c41.png)
@@ -103,13 +112,14 @@ In this EDA part I have to do the following steps.
 ![image](https://user-images.githubusercontent.com/95357575/156418417-16fe2ec2-1a33-480b-9e6a-b3aae67bd6c1.png)
 
 
-# Model Evaluation
+# Comparative Analysis & Model Evaluation
   
  
-![image](https://user-images.githubusercontent.com/95357575/156418500-bc6f1ab9-30d5-47e1-b965-63fd57137d43.png)
+![image](https://user-images.githubusercontent.com/95357575/156782985-acc6b17b-3b8c-4821-b2ad-a4b0f07c6fd8.png)
 
 
-<h3> Here, We applied Six machine learning algorithms, We can conclude that Random Forest classifier performs the best with 85.34% accuracy </h3> 
+
+<h3> Here, We applied Five Machine learning algorithms, We can conclude that Random Forest classifier performs the best with 85.40% accuracy</h3> 
 
 
 
