@@ -52,7 +52,7 @@ In this EDA part I have to do the following steps.
   
   <li>To Detect and Handle the Outliers </li>
   
-  <p>To find the Outliers in the dataset Using Box plot</p>
+  # To find the Outliers in the dataset Using Box plot 
   
   ![image](https://user-images.githubusercontent.com/95357575/156416884-141e150b-aab6-4c52-9894-a00f461ef8ad.png)
 
